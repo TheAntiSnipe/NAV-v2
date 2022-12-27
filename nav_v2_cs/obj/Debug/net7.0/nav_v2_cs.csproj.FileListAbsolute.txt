@@ -1,0 +1,15 @@
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\bin\Debug\net7.0\nav_v2_cs.exe
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\bin\Debug\net7.0\nav_v2_cs.deps.json
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\bin\Debug\net7.0\nav_v2_cs.runtimeconfig.json
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\bin\Debug\net7.0\nav_v2_cs.dll
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\bin\Debug\net7.0\nav_v2_cs.pdb
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\obj\Debug\net7.0\nav_v2_cs.csproj.AssemblyReference.cache
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\obj\Debug\net7.0\nav_v2_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\obj\Debug\net7.0\nav_v2_cs.AssemblyInfoInputs.cache
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\obj\Debug\net7.0\nav_v2_cs.AssemblyInfo.cs
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\obj\Debug\net7.0\nav_v2_cs.csproj.CoreCompileInputs.cache
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\obj\Debug\net7.0\nav_v2_cs.dll
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\obj\Debug\net7.0\refint\nav_v2_cs.dll
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\obj\Debug\net7.0\nav_v2_cs.pdb
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\obj\Debug\net7.0\nav_v2_cs.genruntimeconfig.cache
+C:\Users\mihir\Documents\prashant-kulkarni-nav-automation\NAV v2\nav_v2_cs\obj\Debug\net7.0\ref\nav_v2_cs.dll
